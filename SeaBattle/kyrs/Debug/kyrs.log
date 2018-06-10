@@ -1,0 +1,10 @@
+﻿  Field.cpp
+  Game.cpp
+  MyForm.cpp
+  Ship.cpp
+  Table.cpp
+  Создание кода...
+c:\users\13131\source\repos\kyrs\kyrs\table.h(49): warning C4715: Table::getFieldFromTable: значение возвращается не при всех путях выполнения
+c:\users\13131\source\repos\kyrs\kyrs\table.h(49): warning C4715: Table::getFieldFromTable: значение возвращается не при всех путях выполнения
+c:\users\13131\source\repos\kyrs\kyrs\table.h(49): warning C4715: Table::getFieldFromTable: значение возвращается не при всех путях выполнения
+  kyrs.vcxproj -> C:\Users\13131\source\repos\kyrs\Debug\kyrs.exe

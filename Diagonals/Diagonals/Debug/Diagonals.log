@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+  Table.cpp
+  Создание кода...
+c:\users\13131\source\repos\diagonals\diagonals\table.h(206): warning C4715: Table::getFieldFromTable: значение возвращается не при всех путях выполнения
+c:\users\13131\source\repos\diagonals\diagonals\table.h(206): warning C4715: Table::getFieldFromTable: значение возвращается не при всех путях выполнения
+  Diagonals.vcxproj -> C:\Users\13131\source\repos\Diagonals\Debug\Diagonals.exe
